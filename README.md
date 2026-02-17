@@ -28,5 +28,8 @@ To avoid the biases of standard word counts, this pipeline implements:
 - Install dependencies.
 - Run the Notebook: open `hozier_linguistic_analysis.ipynb` in Jupyter or Google Colab to reproduce the charts and metrics.
 
-## Author's Note
+## Author
+Developed by Ana Dognini
+
+### Author's Note
 I have always been fascinated by the power of words to transcend their literal definitions. This project is the first phase of an ongoing effort to bridge the gap between human intuition and computational evidence in musicology.
